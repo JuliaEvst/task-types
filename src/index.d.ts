@@ -8,7 +8,7 @@ export function getPersons(): {
     name: string;
     age: number;
     gender: 'male' | 'female';
-}[] {}
+}[];
 
 /*
 Типизируйте функцию personToString, возвращающую строку и принимающую объект одного из следующих форматов:
